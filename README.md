@@ -10,10 +10,10 @@
 
 [`NTUC Fairprice`](https://www.fairprice.com.sg/category/biscuits): Data is scrapped from NTUC Fairprice website, under category of Biscuits.
 <br>Biscuit Subcategory: 
-- Creamed and Filled
-- Crackers
-- Wafers
-- Chocolate Cookies
+1) Creamed and Filled
+2) Crackers
+3) Wafers
+4) Chocolate Cookies
 
 ---
 

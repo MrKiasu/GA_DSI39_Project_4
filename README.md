@@ -9,10 +9,8 @@
 ### Data Used
 
 Source: 
-* [`NTUC Fairprice`](https://www.fairprice.com.sg/category/biscuits) : Data is scrapped from NTUC Fairprice website, under category of Biscuits.
-- Biscuit Subcategory: Creamed and Filled, Crackers, Wafers, and Chocolate Cookies
 * [`NTUC Fairprice`](https://www.fairprice.com.sg/category/biscuits): Data is scrapped from NTUC Fairprice website, under category of Biscuits.
-* [`Avoidant Attachment Subreddit`](https://www.reddit.com/r/AvoidantAttachment/): A subreddit about and for individuals with avoidant atatchment style.
+- Biscuit Subcategory: Creamed and Filled, Crackers, Wafers, and Chocolate Cookies
 
 ---
 

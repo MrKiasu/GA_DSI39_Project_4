@@ -1,21 +1,23 @@
-product,Attributes,Calories,Calories from Fat,Total Fat,Saturated Fat,Trans Fat,Sodium,Carbohydrate,Dietary Fibre,Sugars,Protein,Type
-Julie's Crackers - Butter,Per Serving (25g),140kcal,70g,8g,3.5g,0g,140mg,15g,0g,2g,2g,crackers
-Julie's Veggie Crackers,Per Serving (23g),,,6g,2.5g,0g,140mg,14g,0g,1g,2g,crackers
-Ritz Crackers Box - Original,Per Serving (19g),,,5g,,,130mg,12g,,1g,1g,crackers
-Hup Seng Crackers - Cream,Per Serving (31g),150,60,7g,4g,0g,180mg,,1g,1g,,crackers
-Hup Seng Crackers - Sugar,Per Serving (22.5g),110kcal,25kcal,3g,1.5g,0g,140mg,19g,4g,4g,2g,crackers
-Munchy's Crackers - Cream,Per Serving (100g),485kcal,170kcal,19g,9g,0g,510mg,68g,3g,2g,9g,crackers
-FairPrice Cream Crackers - Special,Per Serving (100g),,,22.8g,11.1g,0.1g,419mg,67g,1.9g,13.9g,6.8g,crackers
-FairPrice Cream Crackers,Per Serving (100g),,,21.5g,6.1g,0.1g,367mg,73.6g,2g,1.6g,8.6g,crackers
-Munchy's Crackers - Sugar,Per Serving (30g),,,6g,0.7g,0g,160mg,15.3g,0.6g,4g,1.8g,crackers
-Khong Guan Crackers - Cream,Per Serving (26g),140kcal,45kcal,4g,2.5g,,215mg,21g,1g,1g,3g,crackers
-Haitai Crackers - Original,Per Serving (25g),118kcal,33kcal,7g,2g,0g,90g,18g,1g,2g,3g,crackers
-Julie's Crackers - Wheat,Per Serving (25g),130kcal,63kcal,8g,3.5g,0g,160mg,15g,0g,1g,2g,crackers
-Hup Seng Crackers - Cream (Special),Per Serving (22.5g),130cal,70cal,6g,3.5g,0g,100mg,15g,1g,1g,2g,crackers
-Lee Cream Crackers,Per Serving (100g),120kcal,60kcal,21g,3g,0g,710mg,14g,1g,3g,2g,crackers
-Munchy's Lexus Sandwich Calcium Crackers - Vegetable,Per Serving (100g),505kcal,215kcal,24g,11g,0g,437mg,65g,2g,13g,8g,crackers
-Khong Guan Crackers - Family,Per Serving (36g),180cal,80kcal,9g,4g,0g,190mg,21g,,1g,4g,crackers
-Haitai Crackers - Almond,Per Serving (22g),120kcal,54kcal,6g,3g,0g,70g,14g,0g,4g,2g,crackers
-Hup Seng Crackers - Wholemeal,Per Serving (22.5g),120cal,60cal,6g,3.5g,0g,100mg,14g,1g,1g,,crackers
-Khong Guan Biscuits - Sultana,Per Serving (30g),130kcal,35kcal,4g,2g,0g,85mg,21g,11g,11g,2g,crackers
-Munchy's Crackers - Vegetables,Per Serving (100g),120kcal,54kcal,18g,3g,0g,500mg,14g,0g,2g,2g,crackers
+product,Per Serving,Total Fat,Sodium,Sugars,Type
+Julie's Crackers - Butter,25g,8g,140mg,2g,crackers
+Julie's Veggie Crackers,23g,6g,140mg,1g,crackers
+Ritz Crackers Box - Original,19g,5g,130mg,1g,crackers
+Hup Seng Crackers - Cream,31g,7g,180mg,1g,crackers
+Hup Seng Crackers - Sugar,22.5g,3g,140mg,4g,crackers
+Munchy's Crackers - Cream,100g,19g,510mg,2g,crackers
+FairPrice Cream Crackers - Special,100g,22.8g,419mg,13.9g,crackers
+FairPrice Cream Crackers,100g,21.5g,367mg,1.6g,crackers
+Munchy's Crackers - Sugar,30g,6g,160mg,4g,crackers
+Khong Guan Crackers - Cream,26g,4g,215mg,1g,crackers
+Julie's Crackers - Wheat,25g,8g,160mg,1g,crackers
+Hup Seng Crackers - Cream (Special),22.5g,6g,100mg,1g,crackers
+Lee Cream Crackers,100g,21g,547mg,3g,crackers
+Munchy's Lexus Sandwich Calcium Crackers - Vegetable,100g,24g,437mg,13g,crackers
+Khong Guan Crackers - Family,36g,9g,190mg,1g,crackers
+Hup Seng Crackers - Wholemeal,22.5g,6g,100mg,1g,crackers
+Khong Guan Biscuits - Sultana,30g,4g,85mg,11g,crackers
+Munchy's Crackers - Vegetables,100g,18g,500mg,2g,crackers
+Nabisco Chicken in a Biskit Baked Snack Crackers,31g,8g,230mg,2g,crackers
+Cowhead Crispy Crackers - Cheese,26g,6g,105mg,5g,crackers
+Shoon Fatt Crackers - Light Treat (Cream Special),20g,5g,106mg,1g,crackers
+Shoon Fatt Crackers - Sweeties (Sugar),20g,3g,120mg,3g,crackers

@@ -21,9 +21,12 @@
 
 |Feature|Type|Description|
 |---|---|---|
-|**class**|*integer*|Class 0: Avoidant<br>Class 1: Anxious|
-|**title**|*string*|Title of the subreddit post|
-
+|**type**|*string*|Subcategory of Biscuit|
+|**attribute**|*string*|Size of serving|
+|**total_fat**|*int64*||
+|**sugar**|*int64*||
+|**sodium**|*int64*||
+|**class**|*string*||
 ---
 
 ### Notebook description

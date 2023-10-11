@@ -21,12 +21,13 @@
 
 |Feature|Type|Description|
 |---|---|---|
-|**type**|*string*|Subcategory of Biscuit|
-|**attribute**|*string*|Size of serving|
-|**total_fat**|*int64*||
-|**sugar**|*int64*||
-|**sodium**|*int64*||
-|**class**|*string*||
+|**type**|*string*|Subcategory of Biscuit<br>cookie: chocolate cookie<br>cracker<br>cream: creamed & filled biscuit<br>wafers|
+|**product**|*string*|Name of product|
+|**per_serving_g**|*int64*|Size of serving per one gram (gram)|
+|**total_fat_g_per_gram_of_serving**|*int64*|Total fats per gram of serving (gram)|
+|**sugars_g_per_gram_of_serving**|*int64*|Sugars per gram of serving (gram)|
+|**sodium_g_per_gram_of_serving**|*int64*|Sodium per gram of serving (gram)|
+|**class**|*string*|Healthy<br>Unhealthy|
 ---
 
 ### Notebook description

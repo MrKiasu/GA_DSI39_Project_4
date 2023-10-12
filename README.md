@@ -90,10 +90,12 @@ Consumption of sodium, sugar, and fat are positively correlated to the above met
 From FY2017 to FY2019, the median sugar level of beverages decreased from 8.5 to 6.3 grams per 100 ml (25%).
 This was attributed to the Nutri-Grade campaign which led to suppliers reducing sugar in their beverages.
 
+According to Etiqa's Nutrition Survey conducted in 2022, most snackers would snack more than 3 times in a week.
 Assuming a person consumed a serving of Hello Panda Chocolate a day, that would constitute about 8% of the daily average fats, sodium and sugar intake overall in Singapore.
 If the sucess of the Nutri-Grade campaign (25% reduction) can be applied to "Snack-O-Meter", a 2% (25% * 8%) reduction in daily intake of fats, sodium, and sugar intake is expected.
-Lastly, 
+Lastly, assuming that reduction in consumption of those nutrients of concern can directly impact metabolic risk by the same %, then a reduction of healthcare cost of $12,840,000 is expected.
 
 Source:
 The societal cost of modifiable risk factors in Singapore: https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16198-2
 Ministry of Health’s (MOH) National Population Health Survey (NPHS) 2022 and Health Promotion Board’s (HPB) National Nutrition Survey (NNS) 2022: https://www.moh.gov.sg/news-highlights/details/national-health-surveys-highlight-need-to-focus-on-healthy-diets-and-lifestyles
+Nutrition Survey Report: https://www.etiqa.com.sg/wp-content/uploads/2022/07/Nutrition-Survey-Report_20-Jul.pdf

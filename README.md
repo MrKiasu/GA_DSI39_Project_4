@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: A 'health' classifier for biscuits - The Snack-o-Meter
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: The Snack-o-Meter: A tool to inform public on consumption of biscuits​
 
 ### Problem Statement
 
@@ -45,20 +45,21 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 
 ### Conclusion
 
-- Our classifier model, Logistic Regression with Count Vectorizer, is able to classify individuals as either anxious or avoidant attachment style with 0.9 accuracy. 
-- With this classifier model, we developed an easy-to-use self-help tool (https://attachment-style-classifier.streamlit.app/) to help couples identify their attachment styles. 
-- Information and recommendations are provided based on the attachment style for couples to improve on communicating with each other. 
+-
 
 ---
 
 ### Recommendations
 
-#### Phase 1 - First release of the app on:
-- MSF website
-- MSF’s Telegram channel (i.e.,MSFCares)
-#### Phase 2 - Improve accuracy of classifier model to ≥0.95 through:
-- collecting more data from other similar subreddits
-- exploring ways to tune the existing classifier model
-- exploring the use of other classifier models (e.g., XGBoost) 
-#### Phase 3 - Second release of the app with:
-- expanded coverage of the other two attachment styles
+#### 1 - Increase Public Awareness
+- Through marketing campaigns (offline and online campaigns)​
+#### 2 - Expand the model to include other snack types​
+- For example: Nuts and chips
+#### 3 - Integrate tool into HPB’s existing Health 365 app 
+- Intergration is beneficial as it makes Health 365 as “one stop app”​
+
+---
+
+### Cost-Benefit Analysis
+
+  

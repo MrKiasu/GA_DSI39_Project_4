@@ -46,7 +46,7 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 ### Conclusion
 
 - Our decision tree model yields train and test accuracy greater than 0.9, and the train cross validation score also shows that the model is reliable to be deployed for classification.
-- With this model, we developed an user-friendly tool (https://snack-o-meter.streamlit.app/) to help consumers identify if the biscuit of their choice is healthy or not, and find healthy alternatives.
+- With this model, we developed an user-friendly tool (https://snack-o-meter.streamlit.app/) to help consumers identify if the biscuit of their choice is healthy or not, and recommend healthy alternatives.
 
 ---
 

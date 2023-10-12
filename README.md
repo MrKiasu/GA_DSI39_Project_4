@@ -71,8 +71,8 @@ The Nutri-Grade mark was officially launched on 30 Dec 2022. In FY2022, HPB spen
 Using this as a reference, it is expected that the marketing campaign for "Snack-O-Meter" will cost about the same.
 
 _Sources:_ 
-- HPB Annual Report 2021/2022: https://www.hpb.gov.sg/docs/default-source/pdf/hpb-2022_2023-annual-report.pdf?sfvrsn=bec1a971_2
-- MOH News Highlight: https://www.moh.gov.sg/news-highlights/details/rollout-of-nutri-grade-mark-on-30-december-2022
+- _HPB Annual Report 2021/2022: https://www.hpb.gov.sg/docs/default-source/pdf/hpb-2022_2023-annual-report.pdf?sfvrsn=bec1a971_2_
+- _MOH News Highlight: https://www.moh.gov.sg/news-highlights/details/rollout-of-nutri-grade-mark-on-30-december-2022_
 
 **2. Application Development and Maintenance: $100,000**
    

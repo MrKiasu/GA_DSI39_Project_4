@@ -63,4 +63,37 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 
 ### Cost-Benefit Analysis
 
-  
+#### Estimated Cost (per year): $500,000
+1. Marketing Campaign for "Snack-O-Meter": $400,000
+The Nutri-Grade mark was officially launched on 30 Dec 2022. In FY2022, HPB spent $400,000 on programme, supplies & marketing.
+Using this as a reference, it is expected that the marketing campaign for "Snack-O-Meter" will cost about the same.
+
+Source: 
+HPB Annual Report 2021/2022: https://www.hpb.gov.sg/docs/default-source/pdf/hpb-2022_2023-annual-report.pdf?sfvrsn=bec1a971_2
+MOH News Highlight: https://www.moh.gov.sg/news-highlights/details/rollout-of-nutri-grade-mark-on-30-december-2022
+
+2. Application Development and Maintenance: $100,000
+The intention is for the "Snack-O-Meter" to be incorporated into HPB's existing application, the Health 365.
+The advantage of integration (as opposed to building a standalone app) is that it would save cost on app development.
+In addition, it also uses the Health 365 as a "one-stop" app for the public with regards to health matters.
+Lastly, there would be no additional server cost required.
+
+Source: 
+How Much Does It Cost to Develop an App in Singapore in 2022?: https://neetable.com/blog/app-development-cost-in-singapore
+
+#### Estimated Benefit (per year): $12,840,000​
+3. Healthcare cost of metabolic risk: $642,000,000
+Research conducted in 2023 calculated that the healthcare cost arising from metabolic risks would amounted to S$642 million.
+Metabolic risk in this study is defined by high systolic blood pressure, high fasting plasma glucose, high LDL cholesterol.
+Consumption of sodium, sugar, and fat are positively correlated to the above metabolic risk.
+
+From FY2017 to FY2019, the median sugar level of beverages decreased from 8.5 to 6.3 grams per 100 ml (25%).
+This was attributed to the Nutri-Grade campaign which led to suppliers reducing sugar in their beverages.
+
+Assuming a person consumed a serving of Hello Panda Chocolate a day, that would constitute about 8% of the daily average fats, sodium and sugar intake overall in Singapore.
+If the sucess of the Nutri-Grade campaign (25% reduction) can be applied to "Snack-O-Meter", a 2% (25% * 8%) reduction in daily intake of fats, sodium, and sugar intake is expected.
+Lastly, 
+
+Source:
+The societal cost of modifiable risk factors in Singapore: https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16198-2
+Ministry of Health’s (MOH) National Population Health Survey (NPHS) 2022 and Health Promotion Board’s (HPB) National Nutrition Survey (NNS) 2022: https://www.moh.gov.sg/news-highlights/details/national-health-surveys-highlight-need-to-focus-on-healthy-diets-and-lifestyles

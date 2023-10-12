@@ -4,9 +4,9 @@
 
 The National Health Population Survey highlighted various actions to improve Singaporean health. The focus of our project will be on eating healthier.
 
-Several measures has been implemented to encourage healthy eating. This includes the Nutri-Grade labeling for beverages, which focuses on sugar and saturated fat, which has shifted consumption and led to reduction in sugar intake. More recently, Singapore has also shared that it is studying possible regulatory measures to reduce sodium content in food dishes. However, the nutritional values in snacks has not been widely discussed and this is the gap we are targeting to cover.
+Several measures have been implemented to promote healthy eating. This includes the Nutri-Grade labeling for beverages, which focuses on sugar and saturated fat, and has shifted consumption and led to reduction in sugar intake. More recently, Singapore has also shared that it is studying possible regulatory measures to reduce sodium content in food dishes. However, the nutritional values in snacks has not been widely discussed and this is the gap we are targeting to cover.
 
-While all snacks should be considered, biscuit is used as the initial proof-of-concept due to its popularity. The objective of the project is to build a user-friendly tool that can inform if a biscuit is healthy or not, helping consumers make healthier choices.
+While all snacks should be considered, biscuit is used as the initial proof-of-concept due to its popularity. The objective of the project is to build a tool that can inform if a biscuit is healthy or not, helping consumers make healthier choices.
 
 ---
 
@@ -45,7 +45,8 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 
 ### Conclusion
 
--
+- Our decision tree model yields train and test accuracy greater than 0.9, and the train cross validation score also shows that the model is reliable to be deployed for classification.
+- With this model, we developed an user-friendly tool (https://snack-o-meter.streamlit.app/) to help consumers identify if the biscuit of their choice is healthy or not, and find healthy alternatives.
 
 ---
 

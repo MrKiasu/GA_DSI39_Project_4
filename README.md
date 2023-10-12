@@ -36,7 +36,7 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 
 ### Notebook description
 
-* [`01_webscrapping`](/code/01_webscrapping.ipynb): Scrape nutritional value data from NTUC Fairprice website
+* [`01_webscraping`](/code/01_webscrapping.ipynb): Scrape nutritional value data from NTUC Fairprice website
 * [`02_Data cleaning`](/code/02_cleaning.ipynb): Cleaning of data
 * [`03_EDA`](/code/03_eda.ipynb): Exploratory data analysis
 * [`04_Modelling`](/code/04_modelling.ipynb): Modelling of the data

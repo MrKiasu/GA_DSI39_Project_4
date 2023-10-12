@@ -85,6 +85,7 @@ _Source:_
 - _How Much Does It Cost to Develop an App in Singapore in 2022?: https://neetable.com/blog/app-development-cost-in-singapore_
 
 
+
 #### Estimated Benefit (per year): $12,840,000​
 
 **3. Healthcare cost of metabolic risk: $642,000,000**

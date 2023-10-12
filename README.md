@@ -2,7 +2,11 @@
 
 ### Problem Statement
 
+The National Health Population Survey highlighted various actions to improve Singaporean health. The focus of our project will be on eating healthier.
 
+Several measures has been implemented to encourage healthy eating. This includes the Nutri-Grade labeling for beverages, which focuses on sugar and saturated fat, which has shifted consumption and led to reduction in sugar intake. More recently, Singapore has also shared that it is studying possible regulatory measures to reduce sodium content in food dishes. However, the nutritional values in snacks has not been widely discussed and this is the gap we are targeting to cover.
+
+While all snacks should be considered, biscuit is used as the initial proof-of-concept due to its popularity. The objective of the project is to build a user-friendly tool that can inform if a biscuit is healthy or not, helping consumers make healthier choices.
 
 ---
 
@@ -32,8 +36,10 @@
 
 ### Notebook description
 
-* [`01_scrapping`](/code/01_scrapping.ipynb): Scrapping data from the respective subreddits using PRAW
-* [`02_clean_eda_modelling`](/code/02_clean_eda_modelling.ipynb): Data preprocessing, exploring and visualizing the data and modeling. 
+* [`01_webscrapping`](/code/01_webscrapping.ipynb): Scrapping nutritional value data from NTUC Fairprice website
+* [`02_Data cleaning`](/code/02_cleaning.ipynb): Cleaning of data
+* [`03_EDA`](/code/03_eda.ipynb): Exploratory data analysis
+* [`04_Modelling`](/code/04_modelling.ipynb): Modelling of the data
 
 ---
 

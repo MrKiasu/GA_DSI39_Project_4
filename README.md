@@ -12,7 +12,7 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 
 ### Data Used
 
-[`NTUC Fairprice`](https://www.fairprice.com.sg/category/biscuits): Data is scrapped from NTUC Fairprice website, under category of Biscuits.
+[`NTUC Fairprice`](https://www.fairprice.com.sg/category/biscuits): Data is scraped from NTUC Fairprice website, under category of Biscuits.
 <br>Biscuit Subcategory: 
 1) Creamed and Filled
 2) Crackers
@@ -36,7 +36,7 @@ While all snacks should be considered, biscuit is used as the initial proof-of-c
 
 ### Notebook description
 
-* [`01_webscrapping`](/code/01_webscrapping.ipynb): Scrapping nutritional value data from NTUC Fairprice website
+* [`01_webscrapping`](/code/01_webscrapping.ipynb): Scrape nutritional value data from NTUC Fairprice website
 * [`02_Data cleaning`](/code/02_cleaning.ipynb): Cleaning of data
 * [`03_EDA`](/code/03_eda.ipynb): Exploratory data analysis
 * [`04_Modelling`](/code/04_modelling.ipynb): Modelling of the data
